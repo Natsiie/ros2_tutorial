@@ -1,0 +1,1 @@
+/home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic/ament_cmake_environment_hooks/local_setup.bash

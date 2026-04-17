@@ -1,0 +1,18 @@
+[0.501s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action/build --no-deps symlink_data
+[0.637s] running develop
+[0.730s] running egg_info
+[0.730s] writing py03_action.egg-info/PKG-INFO
+[0.730s] writing dependency_links to py03_action.egg-info/dependency_links.txt
+[0.730s] writing entry points to py03_action.egg-info/entry_points.txt
+[0.731s] writing requirements to py03_action.egg-info/requires.txt
+[0.731s] writing top-level names to py03_action.egg-info/top_level.txt
+[0.731s] reading manifest file 'py03_action.egg-info/SOURCES.txt'
+[0.731s] writing manifest file 'py03_action.egg-info/SOURCES.txt'
+[0.744s] running build_ext
+[0.744s] Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/python3.10/site-packages/py03-action.egg-link (link to .)
+[0.744s] Installing demo01_action_server_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/py03_action
+[0.745s] Installing demo02_action_client_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/py03_action
+[0.745s] 
+[0.745s] Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action
+[0.745s] running symlink_data
+[0.769s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action' returned '0': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action/build --no-deps symlink_data

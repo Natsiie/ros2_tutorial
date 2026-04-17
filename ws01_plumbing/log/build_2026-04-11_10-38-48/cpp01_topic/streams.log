@@ -1,0 +1,23 @@
+[0.018s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic:/opt/ros/humble /usr/bin/cmake --build /home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic -- -j20 -l20
+[0.053s] [100%] Built target demo01_talker_str_cpp
+[0.309s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic' returned '0': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic:/opt/ros/humble /usr/bin/cmake --build /home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic -- -j20 -l20
+[0.310s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic:/opt/ros/humble /usr/bin/cmake --install /home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic
+[0.318s] -- Install configuration: ""
+[0.318s] -- Execute custom install script
+[0.318s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/lib/cpp01_topic/demo01_talker_str_cpp
+[0.318s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/ament_index/resource_index/package_run_dependencies/cpp01_topic
+[0.318s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/ament_index/resource_index/parent_prefix_path/cpp01_topic
+[0.318s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/environment/ament_prefix_path.sh
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/environment/ament_prefix_path.dsv
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/environment/path.sh
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/environment/path.dsv
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/local_setup.bash
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/local_setup.sh
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/local_setup.zsh
+[0.319s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/local_setup.dsv
+[0.319s] -- Symlinking: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/package.dsv
+[0.324s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/ament_index/resource_index/packages/cpp01_topic
+[0.324s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/cmake/cpp01_topicConfig.cmake
+[0.324s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/cmake/cpp01_topicConfig-version.cmake
+[0.324s] -- Up-to-date symlink: /home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic/share/cpp01_topic/package.xml
+[0.326s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic' returned '0': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic:/home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic:/opt/ros/humble /usr/bin/cmake --install /home/lulu/ros2_tutorial/ws01_plumbing/build/cpp01_topic

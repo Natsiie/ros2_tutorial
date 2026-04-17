@@ -1,0 +1,40 @@
+[0.413s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/src/py02_service': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py02_service build --build-base /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build install --record /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/install.log --single-version-externally-managed install_data
+[0.537s] running egg_info
+[0.537s] creating ../../build/py02_service/py02_service.egg-info
+[0.537s] writing ../../build/py02_service/py02_service.egg-info/PKG-INFO
+[0.537s] writing dependency_links to ../../build/py02_service/py02_service.egg-info/dependency_links.txt
+[0.537s] writing entry points to ../../build/py02_service/py02_service.egg-info/entry_points.txt
+[0.537s] writing requirements to ../../build/py02_service/py02_service.egg-info/requires.txt
+[0.537s] writing top-level names to ../../build/py02_service/py02_service.egg-info/top_level.txt
+[0.537s] writing manifest file '../../build/py02_service/py02_service.egg-info/SOURCES.txt'
+[0.537s] reading manifest file '../../build/py02_service/py02_service.egg-info/SOURCES.txt'
+[0.537s] writing manifest file '../../build/py02_service/py02_service.egg-info/SOURCES.txt'
+[0.537s] running build
+[0.537s] running build_py
+[0.538s] creating /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build
+[0.538s] creating /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib
+[0.538s] creating /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service
+[0.538s] copying py02_service/demo02_client.py -> /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service
+[0.538s] copying py02_service/__init__.py -> /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service
+[0.538s] copying py02_service/demo01_server.py -> /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service
+[0.538s] running install
+[0.538s] running install_lib
+[0.540s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service
+[0.540s] copying /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service/demo02_client.py -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service
+[0.540s] copying /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service/__init__.py -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service
+[0.541s] copying /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build/lib/py02_service/demo01_server.py -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service
+[0.541s] byte-compiling /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service/demo02_client.py to demo02_client.cpython-310.pyc
+[0.541s] byte-compiling /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service/__init__.py to __init__.cpython-310.pyc
+[0.541s] byte-compiling /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service/demo01_server.py to demo01_server.cpython-310.pyc
+[0.541s] running install_data
+[0.541s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/ament_index
+[0.541s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/ament_index/resource_index
+[0.541s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/ament_index/resource_index/packages
+[0.541s] copying resource/py02_service -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/ament_index/resource_index/packages
+[0.541s] copying package.xml -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/py02_service
+[0.541s] running install_egg_info
+[0.541s] Copying ../../build/py02_service/py02_service.egg-info to /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02_service-0.0.0-py3.10.egg-info
+[0.541s] running install_scripts
+[0.549s] Installing demo01_server = py02_service.demo01_server:maindemo02_client script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/py02_service
+[0.549s] writing list of installed files to '/home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/install.log'
+[0.562s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/src/py02_service' returned '0': CMAKE_PREFIX_PATH=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo:/home/lulu/ros2_tutorial/ws01_plumbing/install/cpp01_topic PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py02_service build --build-base /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/build install --record /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/install.log --single-version-externally-managed install_data

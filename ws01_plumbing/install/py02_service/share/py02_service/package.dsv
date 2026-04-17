@@ -1,0 +1,9 @@
+source;share/py02_service/hook/pythonpath.ps1
+source;share/py02_service/hook/pythonpath.dsv
+source;share/py02_service/hook/pythonpath.sh
+source;share/py02_service/hook/ament_prefix_path.ps1
+source;share/py02_service/hook/ament_prefix_path.dsv
+source;share/py02_service/hook/ament_prefix_path.sh
+source;../../build/py02_service/share/py02_service/hook/pythonpath_develop.ps1
+source;../../build/py02_service/share/py02_service/hook/pythonpath_develop.dsv
+source;../../build/py02_service/share/py02_service/hook/pythonpath_develop.sh

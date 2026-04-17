@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing py02_service.egg-info/PKG-INFO
+writing dependency_links to py02_service.egg-info/dependency_links.txt
+writing entry points to py02_service.egg-info/entry_points.txt
+writing requirements to py02_service.egg-info/requires.txt
+writing top-level names to py02_service.egg-info/top_level.txt
+reading manifest file 'py02_service.egg-info/SOURCES.txt'
+writing manifest file 'py02_service.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/python3.10/site-packages/py02-service.egg-link (link to .)
+Installing demo01_server script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/py02_service
+Installing demo02_client script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/lib/py02_service
+
+Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service
+running symlink_data
+symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/resource/py02_service -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/ament_index/resource_index/packages
+symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py02_service/package.xml -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py02_service/share/py02_service

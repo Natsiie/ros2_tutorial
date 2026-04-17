@@ -1,0 +1,25 @@
+[0.344s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic': PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/build --no-deps symlink_data
+[0.473s] running develop
+[0.561s] running egg_info
+[0.561s] creating py01_topic.egg-info
+[0.562s] writing py01_topic.egg-info/PKG-INFO
+[0.562s] writing dependency_links to py01_topic.egg-info/dependency_links.txt
+[0.562s] writing entry points to py01_topic.egg-info/entry_points.txt
+[0.562s] writing requirements to py01_topic.egg-info/requires.txt
+[0.562s] writing top-level names to py01_topic.egg-info/top_level.txt
+[0.562s] writing manifest file 'py01_topic.egg-info/SOURCES.txt'
+[0.563s] reading manifest file 'py01_topic.egg-info/SOURCES.txt'
+[0.563s] writing manifest file 'py01_topic.egg-info/SOURCES.txt'
+[0.577s] running build_ext
+[0.577s] Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/lib/python3.10/site-packages/py01-topic.egg-link (link to .)
+[0.577s] Installing demo01_talker_str_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/lib/py01_topic
+[0.577s] Installing demo02_listener_str_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/lib/py01_topic
+[0.577s] 
+[0.577s] Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic
+[0.577s] running symlink_data
+[0.577s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/share/ament_index
+[0.577s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/share/ament_index/resource_index
+[0.577s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/share/ament_index/resource_index/packages
+[0.577s] symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/resource/py01_topic -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/share/ament_index/resource_index/packages
+[0.577s] symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/package.xml -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/share/py01_topic
+[0.595s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic' returned '0': PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py01_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py01_topic/build --no-deps symlink_data

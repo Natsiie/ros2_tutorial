@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+pkg01_helloworld/__init__.py
+pkg01_helloworld/helloworld.py
+pkg01_helloworld.egg-info/PKG-INFO
+pkg01_helloworld.egg-info/SOURCES.txt
+pkg01_helloworld.egg-info/dependency_links.txt
+pkg01_helloworld.egg-info/entry_points.txt
+pkg01_helloworld.egg-info/requires.txt
+pkg01_helloworld.egg-info/top_level.txt
+pkg01_helloworld.egg-info/zip-safe
+resource/pkg01_helloworld

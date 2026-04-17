@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating py04_param.egg-info
+writing py04_param.egg-info/PKG-INFO
+writing dependency_links to py04_param.egg-info/dependency_links.txt
+writing entry points to py04_param.egg-info/entry_points.txt
+writing requirements to py04_param.egg-info/requires.txt
+writing top-level names to py04_param.egg-info/top_level.txt
+writing manifest file 'py04_param.egg-info/SOURCES.txt'
+reading manifest file 'py04_param.egg-info/SOURCES.txt'
+writing manifest file 'py04_param.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/python3.10/site-packages/py04-param.egg-link (link to .)
+Installing demo00_param_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/py04_param
+Installing demo01_param_server_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/py04_param
+
+Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param
+running symlink_data
+creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index
+creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index
+creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index/packages
+symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/resource/py04_param -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index/packages
+symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/package.xml -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/py04_param

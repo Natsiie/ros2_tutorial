@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/lulu/ros2_tutorial/ws01_plumbing/build/base_interfaces_demo/rosidl_generator_py/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "base_interfaces_demo__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/base_interfaces_demo")

@@ -1,0 +1,1 @@
+/home/lulu/ros2_tutorial/ws01_plumbing/build/base_interfaces_demo/rosidl_generator_py/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_c.c

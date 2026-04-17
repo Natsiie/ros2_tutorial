@@ -1,0 +1,1 @@
+/home/lulu/ros2_tutorial/ws01_plumbing/build/base_interfaces_demo/ament_cmake_core/base_interfaces_demoConfig.cmake

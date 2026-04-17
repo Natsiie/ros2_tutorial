@@ -1,0 +1,3 @@
+[console_scripts]
+helloworld = pkg01_helloworld.helloworld:main
+

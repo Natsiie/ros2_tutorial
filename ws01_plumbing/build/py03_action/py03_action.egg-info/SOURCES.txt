@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+py03_action/__init__.py
+py03_action/demo01_action_server_py.py
+py03_action/demo02_action_client_py.py
+py03_action.egg-info/PKG-INFO
+py03_action.egg-info/SOURCES.txt
+py03_action.egg-info/dependency_links.txt
+py03_action.egg-info/entry_points.txt
+py03_action.egg-info/requires.txt
+py03_action.egg-info/top_level.txt
+py03_action.egg-info/zip-safe
+resource/py03_action

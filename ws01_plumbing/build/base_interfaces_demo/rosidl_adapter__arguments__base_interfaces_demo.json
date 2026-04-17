@@ -1,0 +1,8 @@
+{
+  "package_name": "base_interfaces_demo",
+  "non_idl_tuples": [
+    "/home/lulu/ros2_tutorial/ws01_plumbing/src/base_interfaces_demo:msg/Student.msg",
+    "/home/lulu/ros2_tutorial/ws01_plumbing/src/base_interfaces_demo:srv/AddInt.srv",
+    "/home/lulu/ros2_tutorial/ws01_plumbing/src/base_interfaces_demo:action/Progress.action"
+  ]
+}

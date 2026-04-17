@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing py03_action.egg-info/PKG-INFO
+writing dependency_links to py03_action.egg-info/dependency_links.txt
+writing entry points to py03_action.egg-info/entry_points.txt
+writing requirements to py03_action.egg-info/requires.txt
+writing top-level names to py03_action.egg-info/top_level.txt
+reading manifest file 'py03_action.egg-info/SOURCES.txt'
+writing manifest file 'py03_action.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/python3.10/site-packages/py03-action.egg-link (link to .)
+Installing demo01_action_server_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/py03_action
+Installing demo02_action_client_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py03_action/lib/py03_action
+
+Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py03_action
+running symlink_data

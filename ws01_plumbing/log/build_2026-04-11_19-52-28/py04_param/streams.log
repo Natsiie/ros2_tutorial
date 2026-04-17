@@ -1,0 +1,25 @@
+[0.362s] Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param': PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/build --no-deps symlink_data
+[0.500s] running develop
+[0.597s] running egg_info
+[0.597s] creating py04_param.egg-info
+[0.597s] writing py04_param.egg-info/PKG-INFO
+[0.597s] writing dependency_links to py04_param.egg-info/dependency_links.txt
+[0.597s] writing entry points to py04_param.egg-info/entry_points.txt
+[0.597s] writing requirements to py04_param.egg-info/requires.txt
+[0.597s] writing top-level names to py04_param.egg-info/top_level.txt
+[0.597s] writing manifest file 'py04_param.egg-info/SOURCES.txt'
+[0.600s] reading manifest file 'py04_param.egg-info/SOURCES.txt'
+[0.600s] writing manifest file 'py04_param.egg-info/SOURCES.txt'
+[0.613s] running build_ext
+[0.613s] Creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/python3.10/site-packages/py04-param.egg-link (link to .)
+[0.613s] Installing demo00_param_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/py04_param
+[0.613s] Installing demo01_param_server_py script to /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/py04_param
+[0.613s] 
+[0.613s] Installed /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param
+[0.613s] running symlink_data
+[0.613s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index
+[0.613s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index
+[0.613s] creating /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index/packages
+[0.613s] symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/resource/py04_param -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/ament_index/resource_index/packages
+[0.614s] symbolically linking /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/package.xml -> /home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/share/py04_param
+[0.633s] Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param' returned '0': PYTHONPATH=/home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lulu/ros2_tutorial/ws01_plumbing/install/py04_param/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lulu/ros2_tutorial/ws01_plumbing/build/py04_param/build --no-deps symlink_data

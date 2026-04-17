@@ -1,0 +1,2 @@
+Invoking command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/base_interfaces_demo': /usr/bin/cmake /home/lulu/ros2_tutorial/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo
+Invoked command in '/home/lulu/ros2_tutorial/ws01_plumbing/build/base_interfaces_demo' returned '1': /usr/bin/cmake /home/lulu/ros2_tutorial/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo

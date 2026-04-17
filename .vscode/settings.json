@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "python.autoComplete.extraPaths": [
+        "/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [        
+        "/home/lulu/ros2_tutorial/ws01_plumbing/install/base_interfaces_demo/local/lib/python3.10/dist-packages"
+    ],
+    
+}
