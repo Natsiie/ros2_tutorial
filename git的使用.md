@@ -110,6 +110,10 @@ temp/     #忽略这个temp文件夹下的内容
 
 ![](/home/lulu/.config/marktext/images/2026-04-18-20-12-14-image.png)
 
+
+
 ## with your vscode
 
 ### 
+
+![](/home/lulu/.config/marktext/images/2026-04-18-20-35-27-image.png)
