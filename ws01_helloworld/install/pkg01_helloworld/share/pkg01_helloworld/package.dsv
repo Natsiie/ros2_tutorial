@@ -1,9 +1,0 @@
-source;share/pkg01_helloworld/hook/pythonpath.ps1
-source;share/pkg01_helloworld/hook/pythonpath.dsv
-source;share/pkg01_helloworld/hook/pythonpath.sh
-source;share/pkg01_helloworld/hook/ament_prefix_path.ps1
-source;share/pkg01_helloworld/hook/ament_prefix_path.dsv
-source;share/pkg01_helloworld/hook/ament_prefix_path.sh
-source;../../build/pkg01_helloworld/share/pkg01_helloworld/hook/pythonpath_develop.ps1
-source;../../build/pkg01_helloworld/share/pkg01_helloworld/hook/pythonpath_develop.dsv
-source;../../build/pkg01_helloworld/share/pkg01_helloworld/hook/pythonpath_develop.sh
