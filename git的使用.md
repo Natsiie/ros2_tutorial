@@ -26,11 +26,11 @@ git config --global init.defaultBranch main
 
 （工作区域的分类）
 
-![002.png](/home/lulu/图片/002.png)
+![002.png](assert/001.png)
 
 （文件的类型）
 
-![001.png](/home/lulu/图片/001.png)
+![001.png](assert/002.png)
 
 git status // 查看仓库的状态
 
@@ -50,7 +50,7 @@ git log   //查看git的提交记录
 
 git reset  //回退版本
 
-![](/home/lulu/.config/marktext/images/2026-04-18-16-37-28-image.png)
+![](assert/2026-04-18-16-37-28-image.png)
 
 git reset --soft  版本id
 
@@ -68,7 +68,7 @@ git ls-files  //查看暂存区的内容
 
 git diff  //查看工作区，暂存区，本地版本之间的差异
 
-![](/home/lulu/.config/marktext/images/2026-04-18-14-26-21-image.png)
+![](assert/2026-04-18-14-26-21-image.png)
 
 git diff //默认比较工作区和暂存区之间的差异内容
 
@@ -78,7 +78,7 @@ git diff  --cached  //比较暂存区和本地仓库的差异
 
 git diff HEAD~ HEAD  //上个版本和当前版本的比较
 
-![](/home/lulu/.config/marktext/images/2026-04-18-16-22-48-image.png)
+![](assert/2026-04-18-16-22-48-image.png)
 
 git rm 文件名  //删除工作区域和暂存区中的文件
 
@@ -86,11 +86,11 @@ git rm --cached 文件名  //仅删除的是暂存区里的文件
 
 （ps: 执行之后记得commit,不然本地仓库中依然存在）
 
-![](/home/lulu/.config/marktext/images/2026-04-18-16-40-28-image.png)
+![](assert/2026-04-18-16-40-28-image.png)
 
 .gitignore  
 
-![](/home/lulu/.config/marktext/images/2026-04-18-16-43-05-image.png)
+![](assert/2026-04-18-16-43-05-image.png)
 
 （ps:已经添加到仓库里的文件，修改后前后都不会被放到.gitignore里）
 
@@ -98,22 +98,20 @@ access.log
 *.log
 temp/     #忽略这个temp文件夹下的内容
 
-![](/home/lulu/.config/marktext/images/2026-04-18-19-21-58-image.png)
+![](assert/2026-04-18-19-21-58-image.png)
 
-![](/home/lulu/.config/marktext/images/2026-04-18-19-22-56-image.png)
+![](assert/2026-04-18-19-22-56-image.png)
 
-![](/home/lulu/.config/marktext/images/2026-04-18-19-23-55-image.png)
+![](assert/2026-04-18-19-23-55-image.png)
 
 ## 连接远程仓库：
 
-![](/home/lulu/.config/marktext/images/2026-04-18-20-10-24-image.png)
+![](assert/2026-04-18-20-10-24-image.png)
 
-![](/home/lulu/.config/marktext/images/2026-04-18-20-12-14-image.png)
-
-
+![](assert/2026-04-18-20-12-14-image.png)
 
 ## with your vscode
 
 ### 
 
-![](/home/lulu/.config/marktext/images/2026-04-18-20-35-27-image.png)
+![](assert/2026-04-18-20-35-18-image.png)
